@@ -1,0 +1,12 @@
+
+
+--> TO COMPILE AND RUN C++ FILE 
+           -clang++ solution.cpp -o solution && ./solution
+           -clang++ solution.cpp -o solution
+            ./solution
+    >USING G++ ON MAC TERMINAL
+           -g++ main.cpp -o main && ./main
+
+
+-->TO RUN PYTHON FILE USING TERMINAL
+           > python3 --version
